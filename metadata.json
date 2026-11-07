@@ -1,0 +1,6 @@
+{
+  "name": "CodeTribe - Senior Developer Community",
+  "description": "A premium, community-first platform for senior software engineers, featuring technical discussions, dark navy code snippet blocks, real-time leaderboard, and AI debugger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
